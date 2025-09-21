@@ -1,6 +1,6 @@
 {
   "name": "com.saphirah.ecs-authoring-generator",
-  "version": "1.2.3",
+  "version": "1.0.0",
   "displayName": "ECS Authoring Generator",
   "description": "This package automatically generates MonoBehaviours and Bakers, when tagging a IComponentData with [GenerateAuthoring]",
   "unity": "2019.1",
